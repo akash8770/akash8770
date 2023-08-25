@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Singh..
 - 👀 I’m interested in coading..
-- 🌱 I’m currently learning at Masai..
+- 🌱 I hava knowledge of C,java,javascript,HTML,CSS..
 
 
 
